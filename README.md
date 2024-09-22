@@ -1,5 +1,7 @@
 # Campus Connector - A Guide and Reflection
 
+## Currently under reconstruction: Migrating to firebase because I dont have access to my College Server anymore
+
 ## Introduction
 
 Over the past three months, I embarked on an ambitious journey to develop an application from scratch at the University of Maryland (UMD). With no prior knowledge in Database Design, PHP, Kotlin, SQL, and app development, my passion for creating an application to serve UMD students fueled this journey. The goal was to create a platform for students to market and grow their businesses, addressing a unique need within the university community.
